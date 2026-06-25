@@ -1,5 +1,6 @@
 # CS-230-Operating-Platforms
 CS-230 class
+
 The client, The Gaming Room, wanted to expand its existing Android game, *Draw It or Lose It*, into a web-based application that could support users on Windows, macOS, Linux, Android, and iOS. The software needed to be scalable, secure, and accessible through a web browser while supporting thousands of players. My goal was to design a solution that met these requirements while considering the advantages and limitations of each operating platform.
 
 I think I did particularly well in evaluating the different operating systems and recommending the best platform for the project. I compared Linux, Windows, macOS, and mobile devices based on hosting capabilities, licensing costs, development tools, and client compatibility. This helped justify why Linux would be the most effective server platform while using responsive web technologies to support all client devices.
